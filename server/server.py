@@ -3,9 +3,9 @@ from yandex_translate import YandexTranslate
 
 
 pusher_client = pusher.Pusher(
-  app_id='266740',
-  key='3fcff710e9cb5d9c3fb8',
-  secret='7f7f90d0cd5e279e32bb',
+  app_id='',
+  key='',
+  secret='',
   cluster='eu',
   ssl=True
 )
